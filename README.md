@@ -2,7 +2,7 @@
 
 I add the simple webserver to test model more convenient.
 ```bash
-python example/server.py
+python examples/server.py
 ```
 After model totally loaded, you can visit the web <i>http://localhost:5000</i> to test model.
 
